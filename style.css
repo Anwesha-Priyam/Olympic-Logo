@@ -1,0 +1,10 @@
+#myDrawingArea{
+    border-width: 10px;
+    background-color:rgb(226, 151, 255);
+    border-style: rich;
+}
+.body_background{
+    background-image: url(bg.jpeg);
+    background-size: cover;
+    background-position: center;
+}
